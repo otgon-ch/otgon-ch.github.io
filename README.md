@@ -1,7 +1,7 @@
 <!DOCTYPE html>
    <html>
    <head>
-       <title>Otgon's Site</title>
+       <title>Otgon Choijoo</title>
    </head>
    <body>
        <h1>Welcome to my site!</h1>
